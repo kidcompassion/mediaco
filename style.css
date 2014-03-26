@@ -1,0 +1,24 @@
+/*
+ Theme Name:   Bootstrap Child
+ Theme URI:    http://#
+ Description:  Bootstrap Child Theme
+ Author:       Sally Poulsen
+ Author URI:   http://example.com
+ Template:     wordpress-bootstrap-master
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fourteen-child
+*/
+
+@import url("../wordpress-bootstrap-master/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+body {
+
+}
+
+
+.logo {
+    background-color: #809f13;
+}
