@@ -15,9 +15,28 @@
 /* =Theme customization starts here
 -------------------------------------------------------------- */
 body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Old Standard TT', serif;
 
 }
 
+
+h1 {
+    font-family: 'Lato', sans-serif;
+
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+
+}
+
+a {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+}
 
 .logo {
     background-color: #809f13;

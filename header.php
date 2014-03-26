@@ -24,7 +24,7 @@
 		<![endif]-->
 		
   		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
-<link href="http://fonts.googleapis.com/css?family=Lato:300|Grand+Hotel" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,400italic|Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'>
 		<!-- wordpress head functions -->
 		<?php wp_head(); ?>
 		<!-- end of wordpress head -->
@@ -34,8 +34,7 @@
 	<body <?php body_class(); ?>>
 				
 		<header role="banner">
-
-				<div class="logo">LOGO GOES HERE</div>
+				<div class="logo"><img src="<?php bloginfo('stylesheet_directory'); ?>/images/jeff-and-sally.png"/>LOGO GOES HERE</div>
 			<div class="navbar navbar-default">
 				<div class="container">
           
